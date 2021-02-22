@@ -1,4 +1,4 @@
-# Tu Escuela App 📖
+# Tu Escuela App 📖 🎓 
 
 Aplicación de código abierto enfocada para el aprendizaje en línea para personas con bajos recursos.
 
